@@ -3,7 +3,9 @@
 ## Project Background
 
 The Human Resources Department is requesting support from the Data Analytics team to develop data-driven insights and tools that will enhance employee wellness initiatives and workforce management. Specifically, HR would like to identify and generate a comprehensive list of healthy employees who demonstrate low absenteeism, as part of a proposed “Healthy Bonus Program” with a total allocated budget of $1,000 USD. <br>
+
 In addition, the department seeks to analyze employee data to calculate appropriate wage increases or annual compensation adjustments for non-smoking employees, aligning with a separate insurance budget of $983,221 designated for all non-smokers. <br>
+
 Furthermore, HR requires the development of an interactive dashboard, based on an approved wireframe, that will enable them to effectively monitor and better understand patterns of absenteeism across the organization, supporting more informed decision-making and strategic planning. <br>
 
 ## Data Structure
@@ -38,6 +40,12 @@ In terms of reasons, medical consultation is the leading cause of absenteeism, f
 
 ## Recommendation
 Based on the overall analysis of absenteeism patterns, employee health indicators, and cost-related factors, several practical recommendations emerge:  <br>
+- There are currently 686 employees that are non-smoker that should recieved an hourly wage increase of $0.68 based on the proposed budget of $983,221 annually.
 - Absenteeism is largely driven by health-related reasons—particularly medical and dental consultations—the company should strengthen its preventive healthcare initiatives, such as regular wellness check-ups, on-site or subsidized healthcare services, and health education programs. This could help reduce the need for reactive medical visits and lower overall absenteeism. 
 - The variation in absenteeism across days of the week and months suggests an opportunity to optimize workforce planning by allocating more resources or introducing flexible work arrangements during high-absence periods, especially early in the week and peak months.
 - Additionally, given that a segment of employees demonstrates both healthy lifestyles and low absenteeism, expanding incentive programs like the Healthy Bonus Program would reinforce positive behaviors and potentially motivate others to adopt healthier habits. The calculated hourly incentive for non-smokers also appears financially sustainable, so implementing this compensation adjustment could further encourage wellness participation. Moreover, since factors like transportation expense show little correlation with absenteeism, HR efforts and budgets should remain focused on health, work-life balance, and employee engagement rather than logistical subsidies.
+
+# Dashboard
+
+<img width="3392" height="3536" alt="HR_Dashboard-1" src="https://github.com/user-attachments/assets/b5dc43d3-8707-4630-83c0-914ad0d8da5c" />
+
